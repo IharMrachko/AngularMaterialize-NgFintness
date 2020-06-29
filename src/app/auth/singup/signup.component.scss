@@ -1,0 +1,23 @@
+.signup-form {
+  margin-top: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+mat-form-field {
+  width: 300px;
+}
+
+button {
+  width: 23%;
+}
+
+.mat-checkbox {
+  margin-bottom: 12px;
+  margin-left: -85px;
+}

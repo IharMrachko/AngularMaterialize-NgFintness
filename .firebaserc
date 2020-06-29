@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-fitnestracker": {
+      "hosting": {
+        "AngularMaterial": [
+          "angular-fitnestracker"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-fitnestracker"
+  }
+}
